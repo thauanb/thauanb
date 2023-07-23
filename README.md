@@ -1,7 +1,6 @@
 
 # 🚀 Skills
 
-<code><img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
@@ -10,6 +9,8 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 
 ## O que mais usei no Github
+
+[![wakatime](https://wakatime.com/badge/user/d76c9ab9-87c9-4f71-b0a0-6acb85c8583c.svg)](https://wakatime.com/@d76c9ab9-87c9-4f71-b0a0-6acb85c8583c)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thauanb&theme=dracula&hide=nix&hide_title=true)
 ---
