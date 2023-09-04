@@ -11,10 +11,12 @@
 
 ## O que mais usei no Github
 
-[![wakatime](https://wakatime.com/badge/user/d76c9ab9-87c9-4f71-b0a0-6acb85c8583c.svg)](https://wakatime.com/@d76c9ab9-87c9-4f71-b0a0-6acb85c8583c)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thauanb&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thauanb&theme=dracula&hide=nix&hide_title=true)
+[![wakatime](https://wakatime.com/badge/user/d76c9ab9-87c9-4f71-b0a0-6acb85c8583c.svg)](https://wakatime.com/@d76c9ab9-87c9-4f71-b0a0-6acb85c8583c)
 ---
+
+
 
 ### Ferramentas
 
