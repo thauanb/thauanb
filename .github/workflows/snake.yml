@@ -4,10 +4,10 @@
   uses: Platane/snk@v3.0.0
   with:
     # github user name
-    github_user_name: 
+    github_user_name: thauanb
 
 
-- palette:      A preset of color, one of [github, github-dark, github-light]
+- palette:      A preset of color, one of [github, github-dark, github-light
 - color_snake:  Color of the snake
 - color_dots:   Coma separated list of dots color. 
 
