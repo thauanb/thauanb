@@ -1,4 +1,4 @@
-Hi , my name is Thauan . I'm love coding and i want to be Full Stack Javascript.
+## Hi , my name is Thauan . I'm love coding and i want to be Full Stack Javascript.
 
 # 🚀 Skills
 
